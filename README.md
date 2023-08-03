@@ -16,7 +16,7 @@ This display connects to the GPIO breakout pins between the RP2040 chip and the 
 Connections:
 * GND -> GND
 * VCC -> 3.3v
-* SCL -> GPIO 13
+* SCL/SCK -> GPIO 13
 * SDA -> GPIO 12
 
 By default, the display is upright when the display's through holes are closer to the controller cable side (see main.cpp for reorienting the display). For keeping the display in place, use a cushioning material to wedge the display inside the controller grip of the clear back plate.
