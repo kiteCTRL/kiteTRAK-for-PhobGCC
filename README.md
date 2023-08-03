@@ -9,7 +9,7 @@
 
 ## Setup
 This display connects to the GPIO breakout pins between the RP2040 chip and the ABXY button pads. When making your wires for the controller to display connection, consider the wire routing shown here:
-![wire routing](https://github.com/kiteCTRL/kiteTRAK-for-PhobGCC/assets/68704631/bd0212bb-9ce7-470a-a4f9-086a5745da5d)
+![wire_routing](https://github.com/kiteCTRL/kiteTRAK-for-PhobGCC/assets/68704631/ebb46b6b-e7ee-47dc-8868-d6b00e7ad088)
 
 
 
