@@ -4,7 +4,7 @@
 
 ## Hardware
 * 0.91" 128x32 SSD1306 display (https://www.amazon.com/MakerFocus-Display-SSD1306-3-3V-5V-Arduino/dp/B079BN2J8V)
-* 4x ~7" long wires
+* (4x) ~7" long wires
 * Soldering equipment
 
 ## Setup
