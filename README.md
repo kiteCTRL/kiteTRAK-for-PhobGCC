@@ -3,6 +3,7 @@
 ![kiteTRAK_small](https://github.com/kiteCTRL/kiteTRAK-for-PhobGCC/assets/68704631/4c2265f8-7842-4f7e-8d78-8f7caa818333)
 
 ## Hardware
+* PhobGCC 2.x board
 * 0.91" 128x32 SSD1306 display (https://a.co/d/0wZnROs)
 * (4x) ~7" long wires
 * Soldering equipment
