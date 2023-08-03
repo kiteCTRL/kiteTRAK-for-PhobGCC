@@ -24,7 +24,7 @@ By default, the display is upright when the display's through holes are closer t
 ## Display Usage
 * (D-pad Left) Time Tracking: display how long you have been connected to a setup in hr:mn:sc format
 * (D-pad Down) IPM Tracking: display live IPM averaged over a 10-second interval of play
-* (D-pad Right) OWO: display an "owo" that tells you good luck when pressing start :)
+* (D-pad Right) OWO: display an "owo" face that tells you good luck when pressing start :)
 * (Z + D-pad Down) Boot Text: display the kiteTRAK boot text
 * (Z + D-pad Right) Invert Display: invert the entire display, applies for all modes
 * (Z + Start) Turn off the display (if display is inverted, it will show an all white display when shut off)
