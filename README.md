@@ -32,6 +32,6 @@ Follow the PhobGCC-SW RP2040 build guide for building the firmware. The firmware
 * (Z + D-pad Right) Invert Display: invert the entire display, applies for all modes
 * (Z + Start) Turn off the display (if display is inverted, it will show an all white display when shut off)
 
-## Project Sources
+### Project Sources
 PhobGCC: https://github.com/PhobGCC/PhobGCC-SW
 SSD1306: https://github.com/Harbys/pico-ssd1306
