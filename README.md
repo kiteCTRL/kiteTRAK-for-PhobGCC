@@ -36,4 +36,4 @@ The display will update once every second (except for the "owo" mode) and will o
 
 ### Project Sources
 PhobGCC: https://github.com/PhobGCC/PhobGCC-SW
-SSD1306: https://github.com/Harbys/pico-ssd1306
+SSD1306 display: https://github.com/Harbys/pico-ssd1306
