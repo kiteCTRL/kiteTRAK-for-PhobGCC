@@ -14,7 +14,7 @@ This display connects to the GPIO breakout pins between the RP2040 chip and the 
 
 ![wire_routing](https://github.com/kiteCTRL/kiteTRAK-for-PhobGCC/assets/68704631/ebb46b6b-e7ee-47dc-8868-d6b00e7ad088)
 
-Connections:
+#### Connections:
 * GND -> GND
 * VCC -> 3.3v
 * SCL/SCK -> GPIO 13
