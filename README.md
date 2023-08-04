@@ -22,7 +22,7 @@ Connections:
 
 By default, the display is upright when the display's through holes are closer to the controller cable side (see main.cpp for reorienting the display). For keeping the display in place, use a cushioning material to wedge the display inside the controller grip of the clear back plate.
 
-Follow the PhobGCC-SW RP2040 build guide for building the firmware. The firmware can be found in rp2040/build/phobgcc_rp2040.uf2
+Follow the PhobGCC-SW RP2040 build guide for building the firmware if customized. The default firmware can be found in rp2040/build/phobgcc_rp2040.uf2
 
 ### Display Usage
 * (D-pad Left) Time Tracking: display how long you have been connected to a setup in hr:mn:sc format
